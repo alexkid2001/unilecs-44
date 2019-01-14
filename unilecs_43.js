@@ -4,8 +4,6 @@ let arr = ['s', 's', 's', 's', 's', 'f', 'd'];
 let e1 = '%';
 let arr1 = ['%', '%', '%', '%', 'd', '%'];
 
-
-
 function inclusionCheck(ch, arr) {
     let answer = false;
     let matchesCnt = 0;
